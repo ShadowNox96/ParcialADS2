@@ -164,7 +164,7 @@
 
     <aspectj.version>1.8.13</aspectj.version>
     <jackson.version>[2.9.8,)</jackson.version>
-    <junit.version>4.12</junit.version>
+    <junit.version>4.13.1</junit.version>
     <logback.version>1.2.3</logback.version>
     <protostuff.version>1.6.0</protostuff.version>
     <resin.version>4.0.45</resin.version>
